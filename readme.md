@@ -1,0 +1,2 @@
+-Simple Hero Section with HTML5
+-Dark/Light Theme Features Available
